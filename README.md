@@ -1,14 +1,14 @@
-# 🌍 Tableau Global Development Dashboard
+# Tableau Global Development Dashboard
 
-🎯 **View the Interactive Tableau Story:**  
-👉 [View on Tableau Public](https://public.tableau.com/shared/C46YKHR4N?:display_count=n&:origin=viz_share_link)
+ **View the Interactive Tableau Story:**  
+ [View on Tableau Public](https://public.tableau.com/shared/C46YKHR4N?:display_count=n&:origin=viz_share_link)
 
 This project presents a comprehensive data story built using **Tableau**, completed as part of the **BUDT 758D: Data Visualization and Web Analytics** course at the University of Maryland.  
 The goal was to transform raw development data into meaningful insights through **four dashboards**, combining interactivity, storytelling, and clear visual design.
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 The project tells a visual story about **global development trends**, exploring how different factors — such as education, GDP, energy, and disaster impact — influence economic and human progress across regions.
 
@@ -20,7 +20,7 @@ The Tableau story is composed of **four dashboards**:
 
 ---
 
-## 🧠 Tools and Techniques
+## Tools and Techniques
 
 - **Tool:** Tableau  
 - **Skills Demonstrated:**
@@ -32,7 +32,7 @@ The Tableau story is composed of **four dashboards**:
 
 ---
 
-## 🧩 Story Highlights
+## Story Highlights
 
 ### 🔹 Dashboard 1 – Overview of Global Development
 - Interactive world map displaying GDP, literacy, and population by country.  
@@ -56,7 +56,7 @@ The Tableau story is composed of **four dashboards**:
 
 ---
 
-## 📊 Data Description
+## Data Description
 
 The dataset integrates multiple global indicators, such as:
 - GDP per capita (World Bank)  
@@ -69,7 +69,7 @@ These datasets were combined and visualized to uncover **patterns of growth, ine
 
 ---
 
-## 🖥️ Dashboard Preview
+## Dashboard Preview
 
 | Dashboard | Description |
 |------------|-------------|
@@ -82,7 +82,7 @@ These datasets were combined and visualized to uncover **patterns of growth, ine
 
 ---
 
-## 📈 Key Learnings
+## Key Learnings
 
 - Leveraging Tableau’s **parameter controls** for interactive exploration  
 - Crafting a **coherent narrative** across multiple dashboards  
@@ -91,20 +91,20 @@ These datasets were combined and visualized to uncover **patterns of growth, ine
 
 ---
 
-## 🧠 Tools Used
+## Tools Used
 - Tableau Desktop  
 - Tableau Public  
 - Excel / CSV datasets for preprocessing  
 
 ---
 
-## 🔗 Access the Interactive Story
+## Access the Interactive Story
 You can view the live interactive dashboards on Tableau Public here:  
-👉 [View the Workbook on Tableau Public](https://public.tableau.com/shared/C46YKHR4N?:display_count=n&:origin=viz_share_link)
+ [View the Workbook on Tableau Public](https://public.tableau.com/shared/C46YKHR4N?:display_count=n&:origin=viz_share_link)
 
 ---
 
-## 👥 Contributors
+## Contributors
 - **Abimanyu Vijay Krishnamoorthy**  
 - Aditya Kaushik  
 - Maitreyee Tiwari  
@@ -113,5 +113,5 @@ You can view the live interactive dashboards on Tableau Public here:
 
 ---
 
-## 📜 License
+## License
 This project is open-sourced under the [MIT License](LICENSE).
