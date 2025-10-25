@@ -1,4 +1,4 @@
-# Tableau Global Development Dashboard
+# Tableau Disaster Impact Dashboard
 
  **View the Interactive Tableau Story:**  
  [View on Tableau Public](https://public.tableau.com/shared/C46YKHR4N?:display_count=n&:origin=viz_share_link)
